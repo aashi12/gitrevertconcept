@@ -5,6 +5,6 @@ def print_hi(name):
 
 
 if __name__ == '__main__':
-    print_hi('PyCharm merge 1 master branch')
+    print_hi('PyCharm  feature branch commit 1')
 
 
